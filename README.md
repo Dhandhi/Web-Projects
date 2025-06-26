@@ -1,2 +1,2 @@
-# Web-Projects
-* Todo list project using HTML, CSS, Javascript
+Author Vijay.<br>
+This repo is for web projects only.
